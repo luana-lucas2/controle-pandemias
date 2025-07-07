@@ -28,6 +28,7 @@ Este é um sistema simples em Python com interface gráfica para cadastro e cons
 ## Autor
 
 Luana Lucas
+Raissa Cruz
 
 ---
 
